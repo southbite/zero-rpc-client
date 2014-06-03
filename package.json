@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "main": "./lib/zero-rpc-client",
   "dependencies": {
-    "zerorpc": "~0.9.3"
+    "zerorpc": "~0.9.3",
+    "moment": "~2.6.0"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
